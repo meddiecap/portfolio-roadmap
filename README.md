@@ -14,7 +14,7 @@ It shows the planning, progress, and links to each demo application I’m buildi
 
 ## 📅 How to follow my progress
 You can view my full planning, milestones, and task progress here:  
-**[📂 Public GitHub Project Board](https://github.com/users/<YOUR_USERNAME>/projects/1)**
+**[📂 Public GitHub Project Board](https://github.com/users/meddiecap/projects/1)**
 
 This project uses a **WIP limit of 1** – I only work on one demo at a time and finish it before starting the next.
 
