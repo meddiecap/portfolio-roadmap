@@ -3,8 +3,6 @@
 This repository is the central hub for my public portfolio roadmap.  
 It shows the planning, progress, and links to each demo application I’m building to showcase my skills in **Laravel**, **Vue/Nuxt**, **API design**, **performance optimization**, and **automation**.
 
-See the full plan here: [ROADMAP.md →](./ROADMAP.md)
-
 [![Project Board](https://img.shields.io/badge/Project%20Board-Public-blue)](https://github.com/users/meddiecap/projects/1/views/1)
 [![Roadmap](https://img.shields.io/badge/Roadmap-View-blue)](https://github.com/users/meddiecap/projects/1/views/2)
 
