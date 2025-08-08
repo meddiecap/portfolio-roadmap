@@ -5,6 +5,11 @@ It shows the planning, progress, and links to each demo application I’m buildi
 
 ---
 
+## 📍 Detailed Roadmap
+See the full plan here: [ROADMAP.md →](./ROADMAP.md)
+
+---
+
 ## 🎯 Purpose
 - Demonstrate my ability to plan and execute projects step-by-step
 - Showcase a range of concepts and technologies I work with
