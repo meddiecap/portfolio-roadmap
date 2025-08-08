@@ -1,0 +1,26 @@
+name: Feature
+description: Request or describe a new feature
+title: "[Feature]: "
+labels: ["docs"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What problem are we solving? What’s the outcome?
+      placeholder: Clear, actionable description…
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: Bullet list of verifiable outcomes
+      value: |
+        - [ ] …
+        - [ ] …
+  - type: input
+    id: links
+    attributes:
+      label: Links
+      placeholder: Project board / Milestone / Design / References
