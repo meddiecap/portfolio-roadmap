@@ -3,9 +3,6 @@
 This repository is the central hub for my public portfolio roadmap.  
 It shows the planning, progress, and links to each demo application I’m building to showcase my skills in **Laravel**, **Vue/Nuxt**, **API design**, **performance optimization**, and **automation**.
 
----
-
-## 📍 Detailed Roadmap
 See the full plan here: [ROADMAP.md →](./ROADMAP.md)
 
 ---
