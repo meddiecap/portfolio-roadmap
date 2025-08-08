@@ -5,6 +5,9 @@ It shows the planning, progress, and links to each demo application I’m buildi
 
 See the full plan here: [ROADMAP.md →](./ROADMAP.md)
 
+[![Project Board](https://img.shields.io/badge/Project%20Board-Public-blue)](https://github.com/users/meddiecap/projects/1/views/1)
+[![Roadmap](https://img.shields.io/badge/Roadmap-View-blue)](https://github.com/users/meddiecap/projects/1/views/2)
+
 ---
 
 ## 🎯 Purpose
@@ -22,30 +25,15 @@ This project uses a **WIP limit of 1** – I only work on one demo at a time and
 
 ---
 
-## 🚀 Roadmap Status
+## Progress
 
 - [x] **Milestone 0 — Meta repo & Project setup**
-  - Create this roadmap repo
-  - Add README, ROADMAP.md, and templates
-  - Set up public GitHub Project Board
+- [ ] **Milestone 1 — Demo 1**
+- [ ] **Milestone 2 — Demo 2**
+- [ ] **Milestone 3 — Demo 3**
+- [ ] **Milestone 4 — Demo 4**
 
-- [ ] **Milestone 1 — Weather Data Explorer** *(Laravel API + Nuxt)*
-  - REST API with weather data, 24h caching
-  - Filtering, pagination, and frontend charts
-  - Accessibility & responsive design
-
-- [ ] **Milestone 2 — Project Tracker** *(Laravel + Nuxt)*
-  - Auth & roles (admin/member)
-  - Projects, tasks, and activity log
-  - Tailwind UI with accessibility
-
-- [ ] **Milestone 3 — Recipe Finder** *(Nuxt + Algolia/Meilisearch)*
-  - Faceted search, SSR, performance optimizations
-  - Debounced frontend search
-
-- [ ] **Milestone 4 — Boilerplate CLI** *(PHP/Node)*
-  - CLI tool to scaffold Laravel/Nuxt projects
-  - GitHub Actions & pre-configured tooling
+> **WIP-limit:** max **1** issues at the same time in _In progress_.
 
 ---
 
