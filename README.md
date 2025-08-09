@@ -44,7 +44,7 @@ Each demo will have its own repository with:
 
 | Demo | Repository | Status |
 |------|------------|--------|
-| Weather Data Explorer | _TBA_ | ⏳ In progress soon |
+| Weather Data Explorer | _TBA_ | [Roadmap](./milestone-1-board.md) |
 | Project Tracker | _TBA_ | ⏳ |
 | Recipe Finder | _TBA_ | ⏳ |
 | Boilerplate CLI | _TBA_ | ⏳ |
