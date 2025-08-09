@@ -26,7 +26,7 @@ This project uses a **WIP limit of 1** – I only work on one demo at a time and
 ## Progress
 
 - [x] **Milestone 0 — Meta repo & Project setup**
-- [ ] **Milestone 1 — Milestone 1 – WeatherApp (MVP with Open-Meteo)**
+- [ ] **Milestone 1 — WeatherApp (MVP with Open-Meteo)**
 - [ ] **Milestone 2 — tbd**
 - [ ] **Milestone 3 — tbd**
 - [ ] **Milestone 4 — tbd**
